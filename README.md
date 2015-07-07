@@ -8,7 +8,8 @@ gem 'content_engine',
   :branch => 'master'
 ```
 And then execute:
-
+    
+    $ git rev-parse master-branch
     $ bundle install
 
 Or install it yourself as:
