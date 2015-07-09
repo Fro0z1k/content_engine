@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vitalikstetsenko@hotmail.com"]
 
   spec.summary       = %q{This is an parse news}
-  spec.description   = %q{Much longer explanation of the example.}
+  spec.description   = %q{example have gems: "nogokiri", "mechanize"}
   spec.homepage      = "https://rubygems.org/gems/example"
 
     # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
