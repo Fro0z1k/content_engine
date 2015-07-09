@@ -1,6 +1,8 @@
 require './lib/content_engine/version'
 
 module ContentEngine
+  require 'mechanize'
+
   class << self
 
     ACCOUNT = ['danil3@i.ua', 'ytrhbx']
